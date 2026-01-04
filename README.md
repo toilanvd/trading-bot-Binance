@@ -1,7 +1,7 @@
 # trading-bot-Binance
 Fully-automatic trading bot on Binance.
-* To run: python trading_bot.py
-* Before running, make sure to:
+To run: python trading_bot.py
+Before running, make sure to:
 - Check and modify BUY_DCA_PRICE and BUY_DCA_TOKEN lists in trading_bot.py based on your DCA strategy
 - Modify your email information in send_message function in trading_bot.py
 - Modify get_current_best_coin to choose a coin to trade
